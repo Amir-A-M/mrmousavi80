@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amir Abbas Mousavi
 - 👀 I’m interested in coding, experience and make beautiful things
-- 🌱 I’m currently learning JS Librarys
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mamyrbas@gmail.com
 
